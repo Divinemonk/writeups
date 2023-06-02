@@ -1,2 +1,1 @@
-# writeups
-Writeups
+# Writeups
